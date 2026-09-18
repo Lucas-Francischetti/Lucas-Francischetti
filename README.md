@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! Eu sou o Lucas 👋
+# Meu Perfil GitHub
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Est%C3%A1gio+em+DevOps+e+Automa%C3%A7%C3%A3o;Apps+e+fluxos+no+ecossistema+Microsoft;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
@@ -89,7 +89,7 @@ Projeto pessoal em desenvolvimento — ainda não publicado na web, mas com o c�
 </td>
 <td width="50%" valign="top">
 
-### 🤝 [FlumenConsultoria](https://github.com/gabrielgdrbandeira/FlumenConsultoria)
+### 🌳 [FlumenConsultoria](https://github.com/gabrielgdrbandeira/FlumenConsultoria)
 
 Site institucional da Flumen Consultoria, com páginas de Sobre, Serviços, Áreas de Atuação, Notícias e Contato — com envio de formulário funcional via PHP.
 Desenvolvido em parceria com [Gabriel Galvão dos Reis Bandeira](https://github.com/gabrielgdrbandeira).
